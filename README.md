@@ -10,6 +10,7 @@ Draw Condition: Detects when the game ends in a draw.
 Restart Button: Allows players to easily restart the game after a win or draw.
 
 Technologies Used
+
 HTML: Used to structure the game board.
 CSS: Used for styling the game board and buttons to make it visually appealing.
 JavaScript: Implements the game logic, handles user interactions, and updates the game state.
@@ -27,6 +28,7 @@ Interactive User Interface: Provides a simple and interactive game experience wi
 Clean and Readable Code: The code is structured to be easy to understand and maintain, making it a good example of simple JavaScript game logic.
 
 Future Improvements
+
 Single Player Mode: Add a computer opponent to play against.
 Improved UI/UX: Add animations and visual effects to enhance the user experience.
 Score Tracking: Keep track of wins, losses, and draws across multiple rounds.
