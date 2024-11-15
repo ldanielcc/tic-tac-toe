@@ -34,6 +34,7 @@ Improved UI/UX: Add animations and visual effects to enhance the user experience
 Score Tracking: Keep track of wins, losses, and draws across multiple rounds.
 
 Screenshots
+
 ![image](https://github.com/user-attachments/assets/f3365091-2825-439e-8991-ae7f23fe7e91)
 ![image](https://github.com/user-attachments/assets/29a00781-873f-4c62-9ed3-83dd4d6e2b67)
 
