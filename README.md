@@ -15,6 +15,7 @@ CSS: Used for styling the game board and buttons to make it visually appealing.
 JavaScript: Implements the game logic, handles user interactions, and updates the game state.
 
 How to Run the Game
+
 Clone the Repository: git clone https://github.com/ldanielcc/tic-tac-toe-game.git
 
 Navigate to the Project Directory: cd tic-tac-toe-game
