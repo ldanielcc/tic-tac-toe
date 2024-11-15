@@ -17,11 +17,8 @@ JavaScript: Implements the game logic, handles user interactions, and updates th
 How to Run the Game
 
 Clone the Repository: git clone https://github.com/ldanielcc/tic-tac-toe-game.git
-
 Navigate to the Project Directory: cd tic-tac-toe-game
-
 Open the Game in Your Browser: Open the index.html file in your favorite web browser.
-
 
 Project Highlights
 
