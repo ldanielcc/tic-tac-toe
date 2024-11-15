@@ -1,6 +1,6 @@
 Tic-Tac-Toe Game
 
-A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript . This project is a fun and interactive way to demonstrate JavaScript skills, including DOM manipulation, event handling, and simple game logic. The game allows two players to play alternately on a 3x3 grid, with a restart button to start over.
+A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project is a fun and interactive way to demonstrate JavaScript skills, including DOM manipulation, event handling, and simple game logic. The game allows two players to play alternately on a 3x3 grid, with a restart button to start over.
 
 Features
 
@@ -22,11 +22,27 @@ JavaScript: Implements the game logic, handles user interactions, and updates th
 
 How to Run the Game
 
-Clone the Repository: git clone https://github.com/ldanielcc/tic-tac-toe-game.git
+Clone the Repository:
 
-Navigate to the Project Directory: cd tic-tac-toe-game
+git clone https://github.com/your-username/tic-tac-toe-game.git
 
-Open the Game in Your Browser: Open the index.html file in your favorite web browser.
+Navigate to the Project Directory:
+
+cd tic-tac-toe-game
+
+Open the Game in Your Browser:
+
+Open the index.html file in your favorite web browser.
+
+Game Instructions
+
+Players take turns clicking on the cells of the 3x3 grid to place their marker ("X" or "O").
+
+The first player to align three of their markers horizontally, vertically, or diagonally wins.
+
+If all cells are filled without a winner, the game ends in a draw.
+
+Click the Restart button to start a new game.
 
 Project Highlights
 
@@ -43,6 +59,7 @@ Single Player Mode: Add a computer opponent to play against.
 Improved UI/UX: Add animations and visual effects to enhance the user experience.
 
 Score Tracking: Keep track of wins, losses, and draws across multiple rounds.
+
 
 Screenshots
 
